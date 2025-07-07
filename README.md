@@ -24,7 +24,7 @@ Se creó un formulario básico usando **HTML, CSS y JavaScript** con validacione
 ## 🚀 Enlaces
 
 - 📦 Repositorio GitHub: https://github.com/KarenAlvaradoS/SEMANA-6-FORMULARIO-js.git 
-- 🌐 GitHub Pages: 
+- 🌐 GitHub Pages: https://karenalvarados.github.io/SEMANA-6-FORMULARIO-js/
 
 
 👩‍💻 **Desarrollado por:**  
