@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Formulario Simple</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h2>Formulario de Registro</h2>
+  <form id="formulario">
+    <label>Nombre:
+      <input type="text" id="nombre">
+      <span id="errorNombre"></span>
+    </label><br><br>
+
+    <label>Correo:
+      <input type="email" id="correo">
+      <span id="errorCorreo"></span>
+    </label><br><br>
+
+    <label>Contraseña:
+      <input type="password" id="contrasena">
+      <span id="errorContrasena"></span>
+    </label><br><br>
+
+    <label>Confirmar Contraseña:
+      <input type="password" id="confirmar">
+      <span id="errorConfirmar"></span>
+    </label><br><br>
+
+    <label>Edad:
+      <input type="number" id="edad">
+      <span id="errorEdad"></span>
+    </label><br><br>
+
+    <button type="submit" id="btnEnviar" disabled>Enviar</button>
+    <button type="reset">Limpiar</button>
+  </form>
+
+  <script src="script.js"></script>
+</body>
+</html>
